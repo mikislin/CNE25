@@ -19,6 +19,7 @@ Click a badge below to open the notebooks directly in Google Colab:
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikislin/CNE25/blob/main/notebooks/CNE_Class1_Introduction.ipynb) `notebooks/CNE_Class1_Introduction.ipynb`  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikislin/CNE25/blob/main/notebooks/CNE_Class1_Python_Basics.ipynb) `notebooks/CNE_Class1_Python_Basics.ipynb`  
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/CNE-nano-course/blob/main/notebooks/ml_pipeline.ipynb) `notebooks/ml_pipeline.ipynb`  
+### Bonus Python Problems
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikislin/CNE25/blob/main/notebooks/CNE_Bonus_Exercisses.ipynb) `notebooks/CNE_Bonus_Exercisses.ipynb`  
 
  
