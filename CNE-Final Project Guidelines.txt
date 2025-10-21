@@ -1,0 +1,17 @@
+Final Project Guidelines
+The final project requires each team to analyze the structure of a selected dataset, visualize key patterns, select appropriate behavioral and neuronal metrics, formulate a hypothesis, and fit a Generalized Linear Model (GLM) to test it.
+Deliverables: a 10-15-minute presentation and a Google Colab notebook demonstrating the analysis, critical evaluation, and interpretation of results.
+Project Requirements
+1. Data Exploration and Visualization
+Begin by loading the selected dataset into Google Colab.
+Thoroughly examine its structure, identifying the types of measurements collected (behavioral variables, neural signals such as calcium imaging, LFPs, or single/multi-unit recordings).
+Document key details such as data types, sampling rates, and experimental conditions.
+Visualize the distributions of important variables using histograms or box plots, and illustrate temporal dynamics with time series plots or event-triggered averages to reveal patterns and potential outliers.
+Provide a clear, concise narrative explaining the insights gained from these visualizations.
+2. Metric Selection and Hypothesis Formulation
+Select specific behavioral metrics (e.g., movement speed, interaction frequency, lever-pull accuracy) and neuronal metrics (e.g., firing rates, calcium fluorescence intensity, LFP power) that are most relevant to your chosen dataset. 
+Formulate a testable hypothesis linking the selected behavioral and neuronal metrics. The hypothesis may address a novel question or build upon one reported in the original dataset publication.
+3. GLM Analysis and Interpretation
+Fit a GLM to test your hypothesis using the chosen behavioral and neuronal metrics. Preprocess the data as needed, such as normalizing neural signals or binning behavioral events, and clearly define the model’s predictors, response variables, and link function to ensure their appropriateness for the data type.
+Evaluate the model’s performance using suitable metrics, and interpret the results in the context of your hypothesis. 
+Discuss whether neural activity explains the observed behavior, and how your findings align with or extend the conclusions of the original study. Address potential limitations, such as confounding variables, sample size, or data quality issues.
